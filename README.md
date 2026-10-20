@@ -10,11 +10,11 @@ Ordinary interactive surfaces move **into** their depth on hover/press. They do 
 
 ## Live surfaces
 
-**[Open the NeoBrutal Soft flagship →](https://neobrutalism-shop.github.io/NeoBrutal-Soft/)**
+**[Open the NeoBrutal Soft flagship →](https://neobrutalismshop.github.io/NeoBrutal-Soft/)**
 
-**[Browse the interactive component explorer →](https://neobrutalism-shop.github.io/NeoBrutal-Soft/components.html)**
+**[Browse the interactive component explorer →](https://neobrutalismshop.github.io/NeoBrutal-Soft/components.html)**
 
-**[Open the NeoLicenser v0.7 application lab →](https://neobrutalism-shop.github.io/NeoBrutal-Soft/demo/v07.html)**
+**[Open the NeoLicenser v0.7 application lab →](https://neobrutalismshop.github.io/NeoBrutal-Soft/demo/v07.html)**
 
 The public surfaces use the actual Soft CSS source of truth and are covered by the same browser, interaction, responsive, and axe/WCAG quality gates as the engineering demos.
 
@@ -154,10 +154,10 @@ The v0.7 lab exercises app-shell navigation, license filtering, staged release r
 
 The current GitHub Pages origin is:
 
-`https://neobrutalism-shop.github.io/NeoBrutal-Soft/`
+`https://neobrutalismshop.github.io/NeoBrutal-Soft/`
 
 For the commercial/public product URL, the recommended custom domain is **`soft.neobrutalism.shop`** while keeping this repository as the Pages source.
 
 ## Family spec
 
-Soft follows the shared family contract in [`NeoBrutalism-shop/spec`](https://github.com/NeoBrutalism-shop/spec).
+Soft follows the shared family contract in [`NeoBrutalism-shop/spec`](https://github.com/NeoBrutalismshop/spec).
